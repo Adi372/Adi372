@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on full-stack social media project using Socket.IO, React, Node.js, Express, and MongoDB<br><br>👯 I’m looking to collaborate on MERN stack projects<br><br>🤝 I’m looking for help with improving my backend and GenAI skills<br><br>🌱 I’m currently learning DSA, GenAI, and full-stack development<br><br>
+🔭 I’m currently working on full-stack social media project using Socket.IO, React, Node.js, Express, and MongoDB<br><br>👯 I’m looking to collaborate on MERN stack projects<br><br>🤝 I’m looking for help with improving my backend and GenAI skills<br><br>🌱 I’m currently learning full-stack development<br><br>
 
 
 ## 🌐 Socials:
